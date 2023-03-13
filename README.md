@@ -2,6 +2,8 @@
 
 O dockerfile deste projeto vai gerar uma imagem composta por 2 componentes principais:
 
+Para uma versão em RUST veja: https://github.com/RodrigoPetter/rust-private-docker-registry-delete-images
+
 1. Programa em GO que pode ser executado para apagar imagens antigas.
 1. Uma cópia do [docker registry oficial](https://hub.docker.com/_/registry).
 
